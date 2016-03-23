@@ -1,6 +1,7 @@
 syntax on
 set wrap
 set fdm=indent
+set nofoldenable
 set nu
 set mouse=a
 set hlsearch
