@@ -9,4 +9,5 @@ set background=dark
 colorscheme jellybeans
 set listchars=eol:¬,tab:▸·
 set smartindent
+vnoremap <C-c> "+y
 
