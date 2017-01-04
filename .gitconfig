@@ -1,0 +1,11 @@
+[user]
+	name = "Anton Kratz"
+	email = anton.kratz@gmail.com
+[core]
+	editor = vim
+[alias]
+	nice = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+	co = checkout
+	ci = commit
+	st = status -uno
+	br = branch
