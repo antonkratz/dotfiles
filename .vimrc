@@ -6,9 +6,11 @@ set nu
 set mouse=a
 set hlsearch
 set t_Co=256 
-set background=dark
 colorscheme jellybeans
 set listchars=eol:¬,tab:▸·
 set smartindent
 vnoremap <C-c> "+y
+set wildchar=<Tab> wildmenu wildmode=full
+set wildcharm=<C-Z>
+nnoremap <F10> :b <C-Z>
 
