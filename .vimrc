@@ -13,4 +13,4 @@ vnoremap <C-c> "+y
 set wildchar=<Tab> wildmenu wildmode=full
 set wildcharm=<C-Z>
 nnoremap <F10> :b <C-Z>
-
+hi Visual ctermbg=Yellow ctermfg=Black
