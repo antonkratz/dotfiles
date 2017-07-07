@@ -17,3 +17,4 @@ nnoremap <F10> :b <C-Z>
 hi Visual ctermbg=Yellow ctermfg=Black
 noremap $ g_
 noremap g_ $
+hi SpecialKey ctermbg=NONE ctermfg=red
