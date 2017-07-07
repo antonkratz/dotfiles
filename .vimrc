@@ -5,7 +5,8 @@ set nofoldenable
 set nu
 set mouse=a
 set hlsearch
-set t_Co=256 
+set t_Co=256
+let g:jellybeans_background_color_256='NONE'
 colorscheme jellybeans
 set listchars=eol:¬,tab:▸·
 set smartindent
